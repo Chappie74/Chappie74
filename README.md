@@ -4,8 +4,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chappie74&show_icons=true)  
 
-- 🔭 I’m currently working on ecoming the best I can be in flutter 
-- 🌱 I’m currently learning dvance flutter techniques 
+- 🔭 I’m currently working on becoming the best I can be in flutter 
+- 🌱 I’m currently learning advance flutter techniques 
 - 💬 Ask me about Flutter, Vue.js, Django 
 - ⚡ Fun fact: I love programming 
 
